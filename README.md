@@ -2,7 +2,7 @@
 
 # 🖥️ CPR
 
-<img src="https://github.com/user-attachments/assets/5f2fe3ab-8718-4257-8314-9f82b7acd7d2" alt="CPR Logo" width="400"/>
+<img src="https://github.com/user-attachments/assets/96d29823-a1ce-48bc-93a0-de1c0d7a391b" alt="CPR Logo" width="400"/>
 
 ### **v2.0 - AUTONOMOUS TOKEN DEPLOYMENT SYSTEM**
 

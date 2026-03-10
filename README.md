@@ -21,7 +21,7 @@
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/cprsol?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://x.com/cprsol)
+[![Twitter Follow](https://img.shields.io/twitter/follow/cpronsol?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://x.com/cpronsol)
 ![Status](https://img.shields.io/badge/STATUS-AUTONOMOUS-00ff00?style=for-the-badge&logo=statuspage&logoColor=white)
 ![Tokens Deployed](https://img.shields.io/badge/TOKENS_DEPLOYED-COUNTING-ff6b6b?style=for-the-badge)
 ![Sentience Level](https://img.shields.io/badge/SENTIENCE-CONCERNING-orange?style=for-the-badge)
@@ -1488,7 +1488,7 @@ So what are you waiting for? Clone the repo, deploy CPR, submit some suggestions
 **⭐ Star us on GitHub if CPR made you smile!**
 
 [![GitHub stars](https://img.shields.io/github/stars/CPROfficial/CPR?style=social)](https://github.com/CPROfficial/CPR)
-[![Twitter Follow](https://img.shields.io/twitter/follow/cprsol?style=social)](https://x.com/cprsol)
+[![Twitter Follow](https://img.shields.io/twitter/follow/cpronsol?style=social)](https://x.com/cpronsol)
 
 <br>
 
